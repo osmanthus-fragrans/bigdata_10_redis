@@ -1,0 +1,3 @@
+# bigdata_10_redis
+Jedis相关API的练习
+记录了使用Jedis客户端与Redis的服务器进行连接的相关操作
