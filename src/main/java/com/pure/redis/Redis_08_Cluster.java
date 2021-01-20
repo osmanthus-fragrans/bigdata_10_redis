@@ -4,8 +4,6 @@ import redis.clients.jedis.HostAndPort;
 import redis.clients.jedis.JedisCluster;
 import redis.clients.jedis.JedisPoolConfig;
 
-import java.util.Set;
-
 public class Redis_08_Cluster {
 
     private static JedisCluster jedisCluster = null;
